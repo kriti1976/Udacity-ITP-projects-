@@ -1,0 +1,35 @@
+.funfact{
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+.card{
+    width: 310px;
+    border: 1px solid grey;
+    padding-right: .2em;
+    padding-left: .7em;
+    padding-bottom: .6em; 
+}
+
+.infobox{
+    width: 285px;
+    border: 1px solid grey;
+    padding-right: .5em;
+    padding-left: .5em;
+}
+
+.animalpicture{
+    width: 300px;
+    height: 200px;
+    padding-bottom: .8em;
+}
+
+.list-info{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
